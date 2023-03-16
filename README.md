@@ -1,2 +1,2 @@
 # SQL Case B
-Files, introduction and code about SQL case B
+Files, introduction and code about SQL Case B

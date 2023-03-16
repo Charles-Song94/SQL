@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Industry,Jurisdiction,Credit_Rating
+C001,ABC,Energy,Canada,CCC
+C002,Pear,Technology,US,A
+C003,IDM,Technology,US,AA
+C004,IDM,Technology,Canada,AA
+C005,TB Bank,Financial,Canada,AA
+C006,JD Morgan,Financial,US,AAA
+C007,Somy,Technology,Japan,A
+C008,Maple,Commodity,Canada,B
+C009,Noba Chem,Chemical,Mexico,BBB
+C010,Cetegroup,Financial,US,AA
